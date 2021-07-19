@@ -1,7 +1,7 @@
 # v-movie-app
 
 ## Screenshots
-![01](screenshots/01.png)![02](screenshots/02.png)![03](screenshots/03.png)
+![01](screenshots/01.png)![02](screenshots/02.png)
 
 ## Project setup
 ```
