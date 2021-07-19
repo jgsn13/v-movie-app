@@ -1,9 +1,18 @@
-# v-web-movie-app
+# v-movie-app
 
 ## Project setup
 ```
 yarn install
 ```
+### Create env.js file
+Create the env.js file inside the src folder with the following content:
+``` javascript
+export default {
+  apikey: "xxxxxx",
+};
+```
+where "xxxxxx" is your [omdb](http://www.omdbapi.com/) apikey.
+
 
 ### Compiles and hot-reloads for development
 ```
@@ -22,3 +31,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Important
+1. ***Project in development...***
+2. For now only the mobile version
